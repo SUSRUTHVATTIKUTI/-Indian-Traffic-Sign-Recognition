@@ -1,0 +1,10 @@
+names:
+- Regulatory
+- Mandatory
+- Informatory
+- General
+- Warning
+nc: 5
+path: C:\Users\WINDOWS-10\.cache\kagglehub\datasets\kaustubhrastogi17\traffic-signs-dataset-indian-roads\versions\1
+train: Dataset\images\train
+val: Dataset\images\val
